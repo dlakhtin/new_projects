@@ -3,6 +3,7 @@ channels:
 dependencies:
   - python
   - numpy
+  - voila
   - pip
   - pip:
     - pandas
