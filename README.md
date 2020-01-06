@@ -1,1 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlakhtin/new_projects/master)
+[![Binder](https://hub.gke.mybinder.org/user/dlakhtin-new_projects-agxqa75o/notebooks/index.ipynb)
