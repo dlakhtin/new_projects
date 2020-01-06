@@ -1,2 +1,1 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://hub.gke.mybinder.org/user/dlakhtin-new_projects-uedjc3st/voila/render/index.ipynb)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/dlakhtin/new_projects/master?filepath=https%3A%2F%2Fhub.gke.mybinder.org%2Fuser%2Fdlakhtin-new_projects-uedjc3st%2Fvoila%2Frender%2Findex.ipynb)
